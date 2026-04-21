@@ -29,6 +29,7 @@ This project allows users to input expenses in plain English (e.g., "I paid 45 f
 
 ## 📸 Screenshots
 
+![Telegram](image.png)
 
 ## 🚀 Future Improvements
 - Add dashboard (Power BI)
